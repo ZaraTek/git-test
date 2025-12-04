@@ -1,4 +1,4 @@
-## Remember commands for initializeing Git repository:
+## Remember commands for initializing Git repository:
 
 1. git init # first step to create repo
 2. git branch -M main # rename branch to main to avoid confusion with master
